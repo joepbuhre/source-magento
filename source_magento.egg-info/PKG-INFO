@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: source-magento
+Version: 0.0.0
+Summary: Source implementation for Magento.
+Home-page: UNKNOWN
+Author: Airbyte
+Author-email: contact@airbyte.io
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: tests
